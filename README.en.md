@@ -4,13 +4,30 @@
 
 [简体中文](README.md) · [Skill](skills/shiny-colors-meishi-design/SKILL.md) · [Examples](examples/README.en.md)
 
-This project grew out of designing producer exchange cards for Hiori Kazano and Rinze Morino from **THE IDOLM@STER SHINY COLORS**. Several questions kept coming back during revisions: does the producer's name actually belong in the composition? Does each card feel like its character and chosen artwork? Are the type and spacing doing enough?
+An installable Agent Skill for designing and revising producer exchange cards for **THE IDOLM@STER SHINY COLORS**. It covers character research, artwork selection, front-and-back composition, typography, personal information, and export checks.
 
-<!-- Optional personal note: add why you wanted to make these cards or share this project. -->
+The package includes bilingual instructions, two anonymous example pairs, four editable SVG templates, and an optional SVG inspection and text-outlining tool. It is intended for character-focused fan exchange cards and revisions to them.
 
-The useful parts of that process are collected here as an installable Agent Skill, with two examples and editable starting points. The “formula” in the Chinese title is the sequence of research, selection, design, and revision. The colors, shapes, type, and layout still need to come from each card.
+**“Formulaic” refers to a repeatable workflow.** Each character and selected artwork should determine the palette, motifs, typography, and composition.
 
-## Two examples from the project
+## Capabilities and workflow
+
+| Stage | Agent's work | User's input |
+| --- | --- | --- |
+| Define the project | Review the intended use, existing decisions, feedback, and delivery requirements | Character, intended use, known specifications |
+| Research and select | Inspect artwork and prepare numbered candidates with source records | Artwork selection and number of cards |
+| Create a sample | Design one front-and-back pair around the artwork's pose, environment, clothing, color, and available space | Direction and feedback |
+| Revise and expand | Improve composition, typography, and spacing; extend the approved approach while giving each card its own visual character | Feedback and any changes to the scope |
+| Apply information | Add only supplied and requested fields; remove empty fields, labels, and placeholders, then rebalance the layout | Details to display |
+| Export and inspect | Deliver editable sources, previews, agreed exports, and source notes; identify completed checks and remaining printer requirements | Final output requirements |
+
+Existing selections and approvals carry forward. Work can start from an existing design, and a full set can proceed when already authorized.
+
+The agent can find and download publicly accessible artwork or use supplied images. It records the **official reference page** separately from the **actual download source**, including community mirrors. The front integrates the character, setting, title, and producer identity. The back defaults to typography and vector graphics; AI illustration requires an explicit request.
+
+The skill supplies guidance and supporting files. Research, editing, and rendering depend on the capabilities of the agent running it.
+
+## Examples
 
 ### Flowing summer · Hiori Kazano
 
@@ -18,31 +35,15 @@ The useful parts of that process are collected here as an installable Agent Skil
 
 The sky, pose, and flowing lines give the front its direction. The angled name area follows that movement; the back carries the color and rhythm into a composition of its own.
 
-<!-- Optional personal note: add your favorite detail in this pair or a change that made it work for you. -->
-
 ### Dress bookplate · Rinze Morino
 
 ![Anonymous dress-bookplate card pair](examples/dress-bookplate/preview.png)
 
 This pair takes its blue and cream palette, fine borders, and small floral accents from the outfit and scene. The spacing and proportions give the name, title, and decorative details their places on the card.
 
-<!-- Optional personal note: add what you wanted to express about Rinze or why this artwork appealed to you. -->
-
 Both previews use **示例制作人** (“Sample Producer”) and have no contact details. The previews include third-party character artwork. The four editable SVGs use original graphics and image-placement guides, with no official artwork, signatures, or unit-logo assets bundled. Sources, font suggestions, and replacement notes are in the [example guide](examples/README.en.md) and [third-party notices](THIRD_PARTY_NOTICES.md).
 
-## How a project usually goes
-
-Start with the character and what you want the cards for. The agent researches the character and artwork, looks at the images, and prepares numbered candidates. You choose the artwork and how many cards to make. If those choices are already settled, it carries them forward.
-
-The agent can find and download publicly accessible artwork, or work with images you supply. It records both the official reference page and the actual download source, including whether an image came from a community mirror.
-
-The first design is usually one front-and-back pair. Pose, clothing, environment, color, and available space guide the layout. The producer name, character identity, and title are part of that composition. The back uses typography, vector graphics, and space by default; AI illustration is only used when you explicitly ask for it.
-
-From there, you give feedback and the agent revises the pair before extending the collection. Each card keeps its own visual character. Only personal details you supply and want displayed are added; empty fields and their labels disappear, and the spacing is adjusted. The final handoff includes editable sources, previews, the agreed exports, and a record of sources and checks.
-
-The skill supplies instructions, examples, and a small optional checking tool. Research, editing, and rendering use the capabilities of the agent running it.
-
-## Try it
+## Installation
 
 In Codex, ask an agent with GitHub skill installation support:
 
@@ -54,6 +55,8 @@ https://github.com/crackthedream/shiny-colors-meishi-design/tree/main/skills/shi
 You can also download the repository and copy the complete `skills/shiny-colors-meishi-design` folder into `~/.codex/skills/`, or the `skills/` subdirectory of your configured `CODEX_HOME`. Keep that folder intact so its references, templates, and tools remain available. Invoke it in the next conversation turn.
 
 Other agents that support `SKILL.md` can load the same folder through their own installation method. Tool availability varies by client; there is no dependency on a particular browser plugin or fixed local path.
+
+## Usage
 
 For a new project:
 
@@ -75,7 +78,7 @@ Keep the agreed visual direction, but improve the type and spacing.
 Remove any contact fields I haven't filled in.
 ```
 
-## Where to find things
+## Resources
 
 | If you want to… | Open… |
 | --- | --- |
@@ -85,7 +88,7 @@ Remove any contact fields I haven't filled in.
 | Check an SVG or outline its text | [Tool guide](skills/shiny-colors-meishi-design/references/svg-tools.md) |
 | Look up example sources and fonts | [English notes](examples/README.en.md) / [中文说明](examples/README.zh-CN.md) |
 
-## Before printing
+## Export checks and printing limits
 
 The examples use a finished size of **85.60 × 53.98 mm**. For an actual order, confirm the size, corner radius, safe area, bleed, and export requirements with your printer. These are editable design examples; printer-specific preparation and a visual check of every face are still needed. A high DPI setting cannot add detail missing from the source image.
 
@@ -107,8 +110,10 @@ For maintenance, run `python tests/test_svg_text_tools.py` from the repository r
 
 </details>
 
-## Reusing and contributing
+## License and privacy
 
 The original instructions, scripts, and layouts without official artwork are available under the [MIT License](LICENSE). Third-party character images, game names, and trademarks remain outside that license; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). This is an unofficial project with no affiliation to the rights holders.
 
 The public package leaves out participants' real names, contact details, original conversations, personal directories, font binaries, and the complete artwork collection. Personal information you add belongs to your own card project. Please remove it before sharing files or contributing changes here.
+
+<!-- Optional: add your own closing description here. -->
