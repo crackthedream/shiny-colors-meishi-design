@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 910 573.8528037383178" width="85.60mm" height="53.98mm" role="img" aria-label="H01-front editable layout without third-party artwork" style="font-kerning:none;font-variant-ligatures:none">
+  <defs>
+    <clipPath id="summer-front-trim">
+      <rect width="910" height="573.8528037383178" rx="33.806074766355145" />
+    </clipPath>
+    <linearGradient id="summer-front-shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset=".63" stop-color="#343044" stop-opacity="0" />
+      <stop offset="1" stop-color="#343044" stop-opacity=".78" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#summer-front-trim)">
+    <g id="artwork-slot" data-purpose="Replace this entire group with the selected artwork.">
+      <rect width="910.0" height="573.8528037383178" fill="#dcebed" />
+      <path d="M-90 500Q300 390 530-100H920Q640 350 50 700Z" fill="#abcfd0" />
+      <path d="M-20 540Q350 410 650-40" fill="none" stroke="#eff7ee" stroke-width="52" />
+      <path d="M-20 505Q350 375 650-75" fill="none" stroke="#709fa8" stroke-width="2" />
+      <circle cx="445" cy="270" r="98" fill="#f6f9ef" opacity=".8" />
+    </g>
+    <path d="M500 573.8528037383178 910 350V573.8528037383178Z" fill="#f6fbf1" />
+  </g>
+  <g id="artwork-guide">
+    <text x="445" y="265" font-size="29" font-family="Cormorant Garamond Light Italic" fill="#406a77" text-anchor="middle" font-weight="300">ARTWORK</text>
+    <text x="445" y="296" font-size="13" font-family="Cormorant Garamond Light Italic" fill="#406a77" text-anchor="middle" font-weight="300">PLACE SELECTED IMAGE HERE</text>
+  </g>
+  <g id="editable-type">
+    <text x="859" y="125" font-family="Shippori Mincho" font-size="59" fill="#205868" text-anchor="end" letter-spacing="4" font-weight="600">耿耿</text>
+    <text x="858" y="160" font-family="Cormorant Garamond Light Italic" font-size="24" fill="#326b7c" text-anchor="end" letter-spacing="1" font-weight="300">Character Name</text>
+    <text x="44" y="65" font-family="Noto Serif SC" font-size="27" fill="#326b7c" text-anchor="start" letter-spacing="2" font-weight="400">担当アイドル</text>
+    <text x="862" y="478" font-family="LXGW WenKai" font-size="22" fill="#547c85" text-anchor="end" letter-spacing="0" font-weight="400">アイドル 担当</text>
+    <text x="862" y="514" font-family="LXGW WenKai" font-size="41" fill="#315e6d" text-anchor="end" letter-spacing="0" data-field="name" font-weight="400">示例制作人</text>
+  </g>
+</svg>

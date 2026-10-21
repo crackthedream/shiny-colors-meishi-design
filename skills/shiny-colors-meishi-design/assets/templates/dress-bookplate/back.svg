@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="85.60mm" height="53.98mm" viewBox="0 0 1000 630.6074766355141" role="img" aria-label="R05-back editable layout without third-party artwork" style="font-kerning:none;font-variant-ligatures:none">
+  <defs>
+    <clipPath id="15A-back-clip">
+      <rect width="1000" height="630.6074766355141" rx="37.149532710280376" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#15A-back-clip)">
+    <g id="graphic">
+      <rect width="1000" height="630.6074766355141" fill="#c8d9e1" />
+      <path d="M77 29H923Q971 29 971 77V553.607Q971 601.607 923 601.607H77Q29 601.607 29 553.607V77Q29 29 77 29Z" fill="#f7f3e7" />
+      <path d="M398 49H92Q92 68 72 68H50V538.607Q70 538.607 70 560.607V581.607H930V560.607Q930 538.607 950 538.607V68H928Q908 68 908 49H602" fill="none" stroke="#47677f" stroke-width="1.6" />
+      <path d="M82 85H66V527.607M918 85H934V527.607" fill="none" stroke="#a3b6bd" stroke-width=".9" />
+      <path d="M70 539.607l6 6-6 6-6-6Z" fill="#f7f3e7" stroke="#b7a98c" stroke-width="1.2" />
+      <path d="M930 539.607l6 6-6 6-6-6Z" fill="#f7f3e7" stroke="#b7a98c" stroke-width="1.2" />
+      <path d="M73 107l8 8m-8 0 8-8" fill="none" stroke="#a3b6bd" stroke-width=".85" />
+      <path d="M73 120l8 8m-8 0 8-8" fill="none" stroke="#a3b6bd" stroke-width=".85" />
+      <path d="M73 133l8 8m-8 0 8-8" fill="none" stroke="#a3b6bd" stroke-width=".85" />
+      <path d="M919 107l8 8m-8 0 8-8" fill="none" stroke="#a3b6bd" stroke-width=".85" />
+      <path d="M919 120l8 8m-8 0 8-8" fill="none" stroke="#a3b6bd" stroke-width=".85" />
+      <path d="M919 133l8 8m-8 0 8-8" fill="none" stroke="#a3b6bd" stroke-width=".85" />
+      <path d="M398 49C433 49 444 73 466 77M602 49C567 49 556 73 534 77" fill="none" stroke="#47677f" stroke-width="1.2" />
+      <path d="M460 83Q500 100 540 83L500 110Z" fill="#c8d9e1" opacity=".78" />
+      <path d="M450 83Q500 94 550 83M457 92Q500 103 543 92" fill="none" stroke="#47677f" stroke-width="1.1" />
+      <path d="M459 86 476 97 492 89 508 100 524 89 541 87M462 95 478 87 494 100 510 89 526 97 540 88" fill="none" stroke="#47677f" stroke-width="1" />
+      <path d="M464 76Q450 57 440 61Q441 74 464 76M536 76Q550 57 560 61Q559 74 536 76" fill="#a3b6bd" opacity=".65" />
+      <g transform="translate(479 76) rotate(-18) scale(0.62)">
+        <path transform="rotate(0)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(72)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(144)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(216)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(288)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <circle r="2.4" fill="#b7a98c" />
+      </g>
+      <g transform="translate(500 69) rotate(0) scale(0.94)">
+        <path transform="rotate(0)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(72)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(144)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(216)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(288)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <circle r="2.4" fill="#b7a98c" />
+      </g>
+      <g transform="translate(523 76) rotate(18) scale(0.62)">
+        <path transform="rotate(0)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(72)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(144)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(216)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <path transform="rotate(288)" d="M0 0C-5-5-9-13-5-18C-1-23 4-18 4-13C4-7 2-3 0 0Z" fill="#f7f3e7" stroke="#47677f" stroke-width="1.15" />
+        <circle r="2.4" fill="#b7a98c" />
+      </g>
+      <path d="M283 232h42m-42 0q13-7 24 0q-11 7 -24 0Z" fill="none" stroke="#b7a98c" stroke-width="1.15" />
+      <circle cx="275" cy="232" r="1.8" fill="#b7a98c" />
+      <path d="M717 232h-42m42 0q-13-7 -24 0q11 7 24 0Z" fill="none" stroke="#b7a98c" stroke-width="1.15" />
+      <circle cx="725" cy="232" r="1.8" fill="#b7a98c" />
+      <path d="M277 354H486M514 354H723" stroke="#a3b6bd" stroke-width="1" />
+      <path d="M500 349l5 5-5 5-5-5Z" fill="#b7a98c" />
+    </g>
+    <g id="typography" />
+  </g>
+  <g id="editable-type">
+    <text x="500" y="169" fill="#47677f" font-size="29" font-family="Source Han Sans JP Normal" font-weight="350" text-anchor="middle" letter-spacing="7">階段式</text>
+    <text x="500" y="270" fill="#47677f" font-size="88" font-family="Kaisei Tokumin Bold" font-weight="700" text-anchor="middle" letter-spacing="10">純情</text>
+    <text x="500" y="318" fill="#47677f" font-size="29" font-family="Source Han Sans JP Normal" font-weight="350" text-anchor="middle" letter-spacing="7">昇降機</text>
+    <text x="500" y="419" fill="#47677f" font-size="45" font-family="Noto Serif SC Medium" font-weight="500" text-anchor="middle" letter-spacing="0" data-field="name">示例制作人</text>
+    <text x="500" y="466" fill="#7a909c" font-size="28" font-family="Source Han Sans JP Normal" font-weight="350" text-anchor="middle" letter-spacing="1.2">アイドル 担当</text>
+  </g>
+</svg>

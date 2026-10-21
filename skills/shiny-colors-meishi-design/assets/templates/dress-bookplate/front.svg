@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="85.60mm" height="53.98mm" viewBox="0 0 1000 630.6074766355141" role="img" aria-label="R05-front editable layout without third-party artwork" style="font-kerning:none;font-variant-ligatures:none">
+  <defs>
+    <clipPath id="15A-front-clip">
+      <rect width="1000" height="630.6074766355141" rx="37.149532710280376" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#15A-front-clip)">
+    <g id="graphic">
+      <g id="artwork-slot" data-purpose="Replace this entire group with the selected artwork.">
+        <rect width="1000.0" height="630.6074766355141" fill="#cbdfe3" />
+        <path d="M0 500 1000 65V630.61H0Z" fill="#95b7c8" />
+        <path d="M0 540 1000 110V630.61H460Z" fill="#53788e" />
+        <path d="M0 430 1000 0" fill="none" stroke="#eef3e9" stroke-width="5" />
+        <path d="M0 475 1000 45" fill="none" stroke="#eef3e9" stroke-width="1.5" />
+        <circle cx="390" cy="240" r="105" fill="#f8f4e9" opacity=".78" />
+      </g>
+      <path d="M592 -1H1001V222C860 198 721 169 592 127Z" fill="#c8d9e1" />
+      <path d="M603 -1H1001V207C859 186 735 158 603 119Z" fill="#f7f3e7" />
+      <path d="M621 18H973V180C849 161 735 136 621 103Z" fill="none" stroke="#a3b6bd" stroke-width="1" />
+      <path d="M592 127C721 169 860 198 1001 222" fill="none" stroke="#b7a98c" stroke-width="1.4" />
+      <path d="M588 123l5-4 5 7-5 4Z" fill="#f7f3e7" stroke="#a3b6bd" stroke-width=".9" />
+      <rect x="17" y="17" width="966" height="596.6074766355141" rx="23" fill="none" stroke="#f6efda" stroke-width="1.1" opacity=".76" />
+    </g>
+    <g id="typography">
+      <defs />
+      <g filter="url(#v4-title-shadow)" />
+    </g>
+  </g>
+  <g id="artwork-guide">
+    <text x="390" y="235" font-size="32" font-family="Cormorant Garamond Light Italic" fill="#47677f" text-anchor="middle" font-weight="300">ARTWORK</text>
+    <text x="390" y="268" font-size="14" font-family="Cormorant Garamond Light Italic" fill="#47677f" text-anchor="middle" font-weight="300">PLACE SELECTED IMAGE HERE</text>
+  </g>
+  <g id="editable-type">
+    <text x="937" y="88" fill="#47677f" font-size="45" font-family="Noto Serif SC Medium" font-weight="500" text-anchor="end" letter-spacing="0" data-field="name">示例制作人</text>
+    <text x="939" y="132" fill="#718792" font-size="28" font-family="Source Han Sans JP Normal" font-weight="350" text-anchor="end" letter-spacing="0.4">アイドル 担当</text>
+    <text x="908" y="252" fill="#fbf4df" font-size="28" font-family="Source Han Sans JP Normal" font-weight="350" text-anchor="middle" letter-spacing="3">階段式</text>
+    <text x="898" y="326" fill="#fbf4df" font-size="54" font-family="Kaisei Tokumin Bold" font-weight="700" text-anchor="middle" letter-spacing="0">純</text>
+    <text x="898" y="392" fill="#fbf4df" font-size="54" font-family="Kaisei Tokumin Bold" font-weight="700" text-anchor="middle" letter-spacing="0">情</text>
+    <text x="903" y="452" fill="#fbf4df" font-size="38" font-family="Kaisei Tokumin Bold" font-weight="700" text-anchor="middle" letter-spacing="0">昇</text>
+    <text x="903" y="500" fill="#fbf4df" font-size="38" font-family="Kaisei Tokumin Bold" font-weight="700" text-anchor="middle" letter-spacing="0">降</text>
+    <text x="903" y="548" fill="#fbf4df" font-size="38" font-family="Kaisei Tokumin Bold" font-weight="700" text-anchor="middle" letter-spacing="0">機</text>
+  </g>
+</svg>

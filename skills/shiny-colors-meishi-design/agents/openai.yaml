@@ -1,0 +1,4 @@
+interface:
+  display_name: "闪耀色彩小偶像担当名片公式化设计"
+  short_description: "调研选图、正反面构图与迭代，制作有角色辨识度的闪耀色彩担当名片"
+  default_prompt: "请使用 $shiny-colors-meishi-design，先调研我指定的闪耀色彩角色与卡面，再制作一套正反面担当名片样张。"

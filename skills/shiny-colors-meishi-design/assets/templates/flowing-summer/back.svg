@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 910 573.8528037383178" width="85.60mm" height="53.98mm" role="img" aria-label="H01-back editable layout without third-party artwork" style="font-kerning:none;font-variant-ligatures:none">
+  <defs>
+    <clipPath id="summer-back-trim">
+      <rect width="910" height="573.8528037383178" rx="33.806074766355145" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#summer-back-trim)">
+    <g id="seasonal-graphics">
+      <rect width="910" height="573.8528037383178" fill="#f5f6e9" />
+      <path d="M-85 537 C30 272 225 326 309 144 C358 39 354 -25 456 -85 L644 -85 C534 14 544 120 407 225 C276 326 129 353 63 574H-85Z" fill="#d2e8dc" />
+      <path d="M-90 451 C50 245 226 295 308 138 C352 53 357 -17 427 -70 L500 -70 C410 29 426 93 349 181 C251 294 86 300 -34 536Z" fill="#b7dcd2" />
+      <path d="M-55 343 C97 196 230 250 308 112 C345 48 347 -18 387 -57 L426 -57 C365 17 380 86 326 150 C233 265 97 254 -55 420Z" fill="#80bebc" />
+      <path d="M-43 286 C95 188 197 220 274 112 C324 42 307 -13 361 -64" fill="none" stroke="#459baf" stroke-width="5" />
+      <path d="M-20 302 C102 208 202 241 286 124 C335 55 326 -17 376 -58" fill="none" stroke="#f8f9ef" stroke-width="2.4" />
+      <path d="M-40 488 C105 267 276 333 387 159 C450 60 462 -31 547 -78" fill="none" stroke="#69b0b8" stroke-width="2.2" />
+      <path d="M-20 511 C135 289 297 361 412 183 C470 94 496 -23 577 -74" fill="none" stroke="#90c5c2" stroke-width="1.8" />
+      <path d="M331 75 C478 103 559 86 683 2" fill="none" stroke="#bbd8d0" stroke-width="1.8" />
+      <path d="M429 291 C544 311 676 287 790 207 C840 173 880 160 942 166" fill="none" stroke="#92c7c8" stroke-width="2" />
+      <path d="M468 300 C594 314 703 277 811 211" fill="none" stroke="#d0e4da" stroke-width="5" />
+      <path d="M143 155 C155 139 176 135 187 136 C178 151 159 159 143 155Z" fill="#a4cfba" />
+      <path d="M361 375 C379 359 399 359 416 361 C402 378 378 381 361 375Z" fill="#a4cfba" />
+      <circle cx="424" cy="329" r="3" fill="#78aba8" />
+      <circle cx="789" cy="179" r="2.4" fill="#8eb8ad" />
+    </g>
+    <g id="typography" />
+    <g id="official-signature" />
+  </g>
+  <g id="editable-type">
+    <text x="58" y="70" font-family="Cormorant Garamond Light Italic" font-size="29" fill="#527f85" text-anchor="start" letter-spacing="2" font-weight="300">01</text>
+    <text x="119" y="68" font-family="Cormorant Garamond Light Italic" font-size="21" fill="#527f85" text-anchor="start" letter-spacing="2.4" font-weight="300">CHARACTER NAME</text>
+    <text x="489" y="239" font-family="Shippori Mincho" font-size="53" fill="#285b69" text-anchor="start" letter-spacing="5" font-weight="600">風を待つ</text>
+    <text x="488" y="377" font-family="LXGW WenKai" font-size="45" fill="#285b69" text-anchor="start" letter-spacing="0" data-field="name" font-weight="400">示例制作人</text>
+    <text x="492" y="414" font-family="LXGW WenKai" font-size="23" fill="#4c7176" text-anchor="start" letter-spacing="0" font-weight="400">アイドル 担当</text>
+  </g>
+</svg>
