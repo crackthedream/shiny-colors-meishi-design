@@ -116,4 +116,8 @@ The original instructions, scripts, and layouts without official artwork are ava
 
 The public package leaves out participants' real names, contact details, original conversations, personal directories, font binaries, and the complete artwork collection. Personal information you add belongs to your own card project. Please remove it before sharing files or contributing changes here.
 
-<!-- Optional: add your own closing description here. -->
+## A final note
+
+This is a byproduct of trying to make some producer cards with Codex. I wouldn’t claim the results are especially beautiful or sophisticated, but I think they’re decent enough, and I hope they can be of some help to fellow Producers. Of course, if you’ve got a good eye for design, you can always make your own from scratch.
+
+If you run into any issues, feel free to get in touch. You’re also welcome to tweak things yourself—there’s nothing particularly technical here. And who knows, a bigger, stronger Claude model might make something better-looking.
